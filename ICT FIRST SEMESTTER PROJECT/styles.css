@@ -1,0 +1,193 @@
+#nav-color{
+    background-color:#ADA991;
+}
+.main-content{
+    width: 100%;
+    height: 70vh;
+    background-image: url(finalhome.jpg);
+    background-position: 70%;
+    background-size: cover;
+}
+.main-content{
+    border: 4px solid black;
+    border-radius: 10px;
+}
+.nav-link:hover{
+    background-color:#EAE2C6;
+   border-radius: 10px;
+   border: 5px solid rebeccapurple;
+}
+.content{
+   
+    text-align: center;
+    margin-top: 200px;
+    
+}
+#text-top{
+    color:orange;
+    font-weight: bolder;
+    font-size: 40px;
+    
+    
+}
+.searchbar{
+    width: 65%;
+    border-radius: 15px;
+    font-size: 25px;
+    height: 60px;
+    
+    background-color:#ADA991;
+    
+    padding: 3px 3px 3px 3px;
+    transition:3s ease;
+}
+
+.searchbar:hover{
+    
+    background-color: darkkhaki;
+    border: 5px solid rebeccapurple;
+}
+
+
+
+
+
+
+.col{
+    
+    margin: 3px 3px 3px 3px;
+    padding: 3px 3px 3px 3px;
+    border: 2px solid black;
+}
+.card{
+    border-radius: 60px;
+    margin: 3px 3px 3px 3px;
+    padding: 3px 3px 3px 3px;
+
+}
+ .card:hover{
+    transform: scale(1.1);
+    border: 5px solid red;
+    
+    
+   
+
+} 
+.card-body{
+    background-color:#EAE2C6;
+}
+.card-body:hover{
+    background-color: #BFBBA9;
+    border: 5px solid rebeccapurple;
+}
+
+.container{
+    border: 4px solid black;
+    border-radius: 15px;
+}
+/**about**/
+.about{
+    margin-top: 8px;
+    
+    border: 4px solid black;
+    border-radius: 15px;
+    background-color:#ADA991;
+    margin-bottom: 5px;
+    transition:3s ease;
+} 
+.about:hover{
+    background-color: darkkhaki;
+    border: 5px solid rebeccapurple;
+}
+/**room**/
+.room{
+    margin-top: 5px;
+    
+    border: 4px solid black;
+    border-radius: 15px;
+    background-color:#ADA991;
+    margin-bottom: 3px;
+    transition:3s ease;
+}
+.room:hover{
+    background-color: darkkhaki;
+    border: 5px solid rebeccapurple;
+}
+/**SERVICES**/
+.services{
+    margin-top: 5px;
+    
+    border: 4px solid black;
+    border-radius: 15px;
+    background-color:#ADA991;
+    margin-bottom: 3px;
+    transition:3s ease;
+}
+.services:hover{
+    background-color: darkkhaki;
+    border: 5px solid rebeccapurple;
+}
+/**gallery**/
+.gallery{
+    margin-top: 5px;
+    
+    border: 4px solid black;
+    border-radius: 15px;
+    background-color:#ADA991;
+
+    transition:s ease;}
+    .gallery:hover{
+        background-color: darkkhaki;
+        border: 5px solid rebeccapurple;}
+/**package**/
+.package{
+    margin-top: 5px;
+    
+    border: 4px solid black;
+    border-radius: 15px;
+    background-color:#ADA991;
+    margin-bottom: 3px;
+    transition:2s ease;
+}
+.package:hover{
+    background-color: darkkhaki;
+    border: 5px solid rebeccapurple;
+}
+/**contact**/
+.contact{
+    margin-top: 5px;
+    
+    border: 4px solid black;
+    border-radius: 15px;
+    background-color:#ADA991;
+    margin-bottom: 3px;
+    transition:2s ease;
+}
+.contact:hover{
+    background-color: darkkhaki;
+    border: 5px solid rebeccapurple;
+}
+/**footer**/
+.address{
+    margin-top: 5px;
+    
+    border: 4px solid black;
+    border-radius: 15px;
+    background-color:#ADA991;
+    margin-bottom: 3px;
+}
+.lines{
+    margin-top: 5px;
+    
+    border: 4px solid black;
+    border-radius: 15px;
+    background-color:#ADA991;
+    margin-bottom: 3px;
+}
+.lines h2{
+    color:red;
+}
+.lines:hover{
+    background-color:#EAE2C6;
+    border: 5px solid rebeccapurple;
+}
